@@ -2,7 +2,7 @@
 
 This page contains materials for the short MA political science course *Automated Text Analysis in Political Science* for political science MA students at CEU (April 2018).
 
-Instructor: [Martijn Schoonvelde](mschoonvelde.com)
+Instructor: [Martijn Schoonvelde](http://mschoonvelde.com)
 
 Here is the link to the [Syllabus](Syllabus_CEU.pdf)
 
