@@ -9,7 +9,7 @@ Here is the link to the [Syllabus](Syllabus_CEU.pdf)
 ## Assignments
 
 | Date        | Link           | 
-| ------------- |:-------------:| ------------- |:-------------:| 
+| ------------- |:-------------:| 
 | April  20, 17:00h   | [Assignment 1]() |
 | April  25, 17:00h   | [Assignment 2]() |
 
