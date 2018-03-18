@@ -69,7 +69,7 @@ American Journal of Political Science, 58(4), 1064-1082.
 * Coding Assignment 2 due
 	
 	
-* April 26: 09:00 - 10:40:*
+*April 26: 09:00 - 10:40:*
 * Loose ends, review, and general discussion of pros and cons of automated text analysis. 
 
 *April 27: 09:00 - 10:40:*
