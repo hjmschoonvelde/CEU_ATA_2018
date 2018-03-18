@@ -1,10 +1,12 @@
 # CEU Course 'Automated Text Analysis in Political Science'
 
-This repository contains materials for the course *Automated Text Analysis in Political Science* for political science MA students at CEU (April 2018)
+This page contains materials for the short MA political science course *Automated Text Analysis in Political Science* for political science MA students at CEU (April 2018).
 
-Here is the [Syllabus](Syllabus_CEU.pdf)
+Instructor: [Martijn Schoonvelde](mschoonvelde.com)
 
-Schedule 
+Here is the link to the [Syllabus](Syllabus_CEU.pdf)
+
+Course schedule 
 ----
 
 *April 16: 09:00 - 10:40:*
