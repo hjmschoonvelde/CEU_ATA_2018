@@ -7,20 +7,17 @@ Instructor: [Martijn Schoonvelde](http://mschoonvelde.com)
 Here is the link to the [Syllabus](Syllabus_CEU.pdf)
 
 
-| Date        | Slides           |
-| ------------- |:-------------:| 
-| April  16   | [Link]() |
-| April  17   | [Link]() |
-| April  18   | [Link]() |
-| April  19   | [Link]() |
-| April  20   | [Link]() |
-| April  23   | [Link]() |
-| April  24   | [Link]() |
-| April  25   | [Link]() |
-| April  26   | [Link]() |
-| April  27   | [Link]() |
 
-Course schedule 
+## Slides 
+| Date        | Slides           |  Date        | Slides           | 
+| ------------- |:-------------:| ------------- |:-------------:| 
+| April  16   | [Link]() | April  23   | [Link]() |
+| April  17   | [Link]() | April  24   | [Link]() |
+| April  18   | [Link]() | April  25   | [Link]() |
+| April  19   | [Link]() | April  26   | [Link]() |
+| April  20   | [Link]() | April  27   | [Link]() |
+
+## Course schedule 
 ----
 
 *April 16: 09:00 - 10:40:*
