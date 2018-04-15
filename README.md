@@ -16,7 +16,7 @@ Here is the link to the [Syllabus](Syllabus_CEU.pdf)
 ## Slides 
 | Date        | Slides           |  Date        | Slides           | 
 | ------------- |:-------------:| ------------- |:-------------:| 
-| April  16   | [Link]() | April  23   | [Link]() |
+| April  16   | [Link](/Slides/Slides_April_16) | April  23   | [Link]() |
 | April  17   | [Link]() | April  24   | [Link]() |
 | April  18   | [Link]() | April  25   | [Link]() |
 | April  19   | [Link]() | April  26   | [Link]() |
