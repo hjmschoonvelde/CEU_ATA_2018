@@ -25,31 +25,31 @@ Here is the link to the [Syllabus](Syllabus_CEU.pdf)
 ## Course schedule 
 ----
 
-*April 16: 09:00 - 10:40:*
+*April 16: 15:30 - 17:10:*
 
 * Introduction to the course and to EUSpeech, a dataset which will use for running examples: [Link](https://dataverse.harvard.edu/dataverse/euspeech)
 * Required reading:
 	* Schumacher, G., Schoonvelde, M., Traber, D., Dahiya, T., & De Vries, E. (2016). EUSpeech: a New Dataset of EU Elite Speeches. In: Proceedings of the International Conference on the Advances in Computational Analysis of Political Text, 75-80.
 
-*April 17: 09:00 - 10:40:*
+*April 17: 15:30 - 17:10:*
 
 * A survey of automated text analysis in political science. Supervised and unsupervised methods. Validation, validation, validation. Text Analysis in R. 
 * Required reading:
 	* Grimmer, J., & Stewart, B. M. (2013). Text as data: The promise and pitfalls of automatic content analysis methods for political texts. Political Analysis, 21(3), 267-297.
 	* Welbers, K., Van Atteveldt, W., & Benoit, K. (2017). Text Analysis in R. Communication Methods and Measures, 11(4), 245-265.
 
-*April 18: 09:00 - 10:40 & 11:00 - 12:40:*
+*April 18: 15:30 - 19:00:*
 * Pre-processing data. Going from text to data, including a few notes of caution. Discussion of the research design and research note. 
 * Required reading:
 	* Denny, M. J., & Spirling, A. (2017). Text preprocessing for unsupervised learning: why it matters, when it misleads, and what to do about it. Working paper.
 	* Greene, Z., Ceron, A., Schumacher, G., & Fazekas, Z. (2016). The Nuts and Bolts of Au- tomated Text Analysis. Comparing Different Document Pre-Processing Techniques in Four Countries. Working paper.
 
-*April 19: 09:00 - 10:40:*
+*April 19: 15:30 - 17:10:*
 * Systematically describing and comparing texts.
 * Required reading: 
 	* Chapters 3 and 4 of Silge, J., & Robinson, D. (2018). Text Mining with R: A Tidy Approach. O?Reilly Media, Inc. Available at [Link](https://www.tidytextmining.com)
 
-*April 20: 09:00 - 10:40:*
+*April 20: 15:30 - 17:10:*
 * Using dictionaries to measure sentiment, happiness and other things we?re interested in.
 * Required reading:
 	* Pennebaker JW & King L (1999) Linguistic styles: language use as an individual difference. Journal of Personality and Social Psychology, 77(6), 1296-1312.
