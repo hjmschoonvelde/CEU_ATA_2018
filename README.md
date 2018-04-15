@@ -4,7 +4,7 @@ This page contains the materials for the short MA political science course *Auto
 
 Instructor: [Martijn Schoonvelde](http://mschoonvelde.com)
 
-You can find the Syllabus [here](Syllabus_CEU.pdf). For any questions, send me an email at mschoonvelde[at]gmail[dot]com.
+You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me an email at mschoonvelde[at]gmail[dot]com.
 
 ## Assignments
 
