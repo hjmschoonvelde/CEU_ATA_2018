@@ -74,11 +74,11 @@ Here is the link to the [Syllabus](Syllabus_CEU.pdf)
 	* Roberts, M et al.. (2014). Structural Topic Models for Open-Ended Survey Responses.
 American Journal of Political Science, 58(4), 1064-1082. 
 * Suggested reading:
-	* Boumans JW & Trilling D (2016) Taking stock of the toolkit: An overview of relevant au- tomated content analysis approaches and techniques for digital journalism scholars.Digital Journalism 4(1): 8-23.
+	* Boumans JW & Trilling D (2016) Taking stock of the toolkit: An overview of relevant automated content analysis approaches and techniques for digital journalism scholars.Digital Journalism 4(1): 8-23.
 	* http://www.scottbot.net/HIAL/index.html@p=19113.html
 
 *April 25: 09:00 - 10:40 & 11:00 - 12:40:*
-* New developments in automated text analysis: (i) crowd-sourcing and (ii) measurement of elite per- sonality, (iii) measurement of semantic shifts.
+* New developments in automated text analysis: (i) crowd-sourcing and (ii) measurement of elite personality, (iii) measurement of semantic shifts.
 * Required reading:
 	* Ramey, A. J., Klingler, J. D., & Hollibaugh, G. E. (2016). Measuring elite personality using speech. Political Science Research and Methods, 1-22.
 	* Benoit, K., Conway, D., Lauderdale, B. E., Laver, M., & Mikhaylov, S. (2016). Crowd-sourced text analysis: Reproducible and agile production of political data. American Political Science Review, 110(2), 278-295.
