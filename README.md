@@ -27,7 +27,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | Date        | Link           |  Date        | Link           | 
 | ------------- |:-------------:| ------------- |:-------------:| 
 | April  16   | | April  23   | |
-| April  17   | [Link](Code_Practice/String_Operations.html) | April  24   |  |
+| April  17   | [Link](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/1180d1eb/Code_Practice/String_Operations.html) | April  24   |  |
 | April  18   | | April  25   |  |
 | April  19   |  | April  26   |  |
 | April  20   | | April  27   |  |
