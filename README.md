@@ -52,21 +52,21 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 * Pre-processing data. Going from text to data, including a few notes of caution. Discussion of the research design and research note. 
 * Required reading:
 	* Denny, M. J., & Spirling, A. (2017). Text preprocessing for unsupervised learning: why it matters, when it misleads, and what to do about it. Working paper.
-	* Greene, Z., Ceron, A., Schumacher, G., & Fazekas, Z. (2016). The Nuts and Bolts of Au- tomated Text Analysis. Comparing Different Document Pre-Processing Techniques in Four Countries. Working paper.
+	* Greene, Z., Ceron, A., Schumacher, G., & Fazekas, Z. (2016). The Nuts and Bolts of Automated Text Analysis. Comparing Different Document Pre-Processing Techniques in Four Countries. Working paper.
 
 *April 19: 15:30 - 17:10:*
 * Systematically describing and comparing texts.
 * Required reading: 
-	* Chapters 3 and 4 of Silge, J., & Robinson, D. (2018). Text Mining with R: A Tidy Approach. O?Reilly Media, Inc. Available at [Link](https://www.tidytextmining.com)
+	* Chapters 3 and 4 of Silge, J., & Robinson, D. (2018). Text Mining with R: A Tidy Approach. O'Reilly Media, Inc. Available at [Link](https://www.tidytextmining.com)
 
 *April 20: 15:30 - 17:10:*
-* Using dictionaries to measure sentiment, happiness and other things we?re interested in.
+* Using dictionaries to measure sentiment, happiness and other things we're interested in.
 * Required reading:
 	* Pennebaker JW & King L (1999) Linguistic styles: language use as an individual difference. Journal of Personality and Social Psychology, 77(6), 1296-1312.
 	*  Young, L., & Soroka, S. (2012). Affective news: The automated coding of sentiment in political texts. Political Communication, 29(2), 205-231.
 *Suggested reading:
 	* Rooduijn, M., & Pauwels, T. (2011). Measuring populism: Comparing two methods of content analysis. West European Politics, 34(6), 1272?1283.
-	* Rheault, L., Beelen, K., Cochrane, C., & Hirst, G. (2016). Measuring Emotion in Parliamen- tary Debates with Automated Textual Analysis. PLoS One, 11(12).
+	* Rheault, L., Beelen, K., Cochrane, C., & Hirst, G. (2016). Measuring Emotion in Parliamentary Debates with Automated Textual Analysis. PLoS One, 11(12).
 * * Coding Assignment 1 due*
 	
 *April 23: 09:00 - 10:40:*
@@ -102,6 +102,7 @@ American Journal of Political Science, 58(4), 1064-1082.
 
 *April 27: 09:00 - 10:40:*
 * Research design presentations.
+
 *4 May, 17:00: Final Assignment Due: Research Note*
 
 
