@@ -8,10 +8,10 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 
 ## Assignments
 
-| Date        | Link           |  Data  |
+| Date        | Link           |   |
 | ------------- |:-------------:|  -------------:| 
-| April  20, 17:00h   | [Assignment 1](Assignments/Assignment_1.Rmd)  | [Data Assignment 1 ](Assignments/speeches_nl.csv) |
-| April  25, 17:00h   | [Assignment 2]() | |
+| April  20, 17:00h   | [Assignment 1](Assignments/Assignment_1.zip) |
+| April  25, 17:00h   | [Assignment 2]() | 
 
 ## Slides 
 | Date        | Slides           |  Date        | Slides           | 
