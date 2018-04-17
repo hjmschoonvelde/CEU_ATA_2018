@@ -16,11 +16,11 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 ## Slides 
 | Date        | Slides           |  Date        | Slides           | 
 | ------------- |:-------------:| ------------- |:-------------:| 
-| April  16   | [Link](Slides/Slides_April_16.pdf) | April  23   | [Link]() |
-| April  17   | [Link](Slides/Slides_April_17.pdf) | April  24   | [Link]() |
-| April  18   | [Link]() | April  25   | [Link]() |
-| April  19   | [Link]() | April  26   | [Link]() |
-| April  20   | [Link]() | April  27   | [Link]() |
+| April  16   | [Link](Slides/Slides_April_16.pdf) | April  23   |  |
+| April  17   | [Link](Slides/Slides_April_17.pdf) | April  24   |  |
+| April  18   |  | April  25   |  |
+| April  19   |  | April  26   | |
+| April  20   |  | April  27   | |
 
 
 ## Code practice 
