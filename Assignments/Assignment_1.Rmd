@@ -1,0 +1,88 @@
+---
+title: "Title"
+author: "Name"
+date: "date"
+output:
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Let's take a look a set of Dutch speeches in English from the [EUSpeech](https://dataverse.harvard.edu/dataverse/euspeech) dataset. Use setwd() to set the working directory to the folder that contains Dutch speeches in the file speeches_nl.csv. Read in the speeches as follows: 
+
+```{r, echo = TRUE, results = 'verbatim', message = FALSE}
+Sys.setlocale(locale = "en_US.UTF-8")
+
+library(foreign)
+speeches <- read.csv(file = "speeches_nl.csv", header = TRUE, stringsAsFactors = FALSE, sep = ",")
+```
+
+Load the `stringr` library, and do the following:
+
+1) Write some code to take out the p-tags.
+```{r, echo = TRUE, results = 'verbatim', message = FALSE}
+library(stringr)
+
+```
+
+2) Write some code to take out all individual digits / numbers in the first speech (for example, the number 20 should stored as a 2 and a 0 separately). Print the total sum of these numbers. What is this total?
+
+```{r, echo = TRUE, results = 'verbatim', message = FALSE}
+```
+3) Write some code to display i) the names of the speakers, and ii) the number of speeches they delivered.
+
+```{r, echo = TRUE, results = 'verbatim', message = FALSE}
+```
+
+4) Write some code to count the number of times in each speech the speakers mentions "I", and save this as a variable called *self.references* in the speeches dataframe.
+
+```{r, echo = TRUE, results = 'verbatim', message = FALSE}
+
+```
+
+We have currently read in the speeches as a variable in a dataframe using the `foreign` library, but we could have done so using `quanteda` and `readtext` as well, which read in the speeches as a `corpus` object. Although a typical workflow of reading in text files involves one set of functions it is useful to know that you can go back and forth between both approaches as well. 
+
+```{r, echo = TRUE, results = 'verbatim', message = FALSE}
+library(quanteda)
+speeches.corpus <- corpus(speeches$text)
+str(speeches.corpus)
+```
+You know have read in the speeches as a `corpus` object in `quanteda`, and you can use its functions. Familiarize yourself with these functions by going through the online [tutorial](https://tutorials.quanteda.io/basic-operations/)
+
+5) Count the number of tokens *speeches.corpus* (make sure you remove punctuation), and save them as a *n.tokens* variable in the speeches dataframe. Also generate a variable *reference.ratio* which is the number of self references divided by the number of tokens. Print the mean *reference.ratio*
+
+```{r, echo = TRUE, results = 'verbatim', message = FALSE}
+
+```
+
+6) Plot the average *reference.ratio* for both speakers using a bar chart. You may use either base `R` or `ggplot2`.
+
+```{r, echo = TRUE, results = 'verbatim', message = FALSE}
+
+```
+
+7) Generate a *dfm.speeches* object which is the dfm from the *speeches.corpus* object. Print the number of features.
+
+```{r, echo = TRUE, results = 'verbatim', message = FALSE}
+
+```
+
+8) Use tf-idf weighting on the dfm. Print the top 10 features of the 20th speech in the dataframe.
+
+```{r, echo = TRUE, results = 'verbatim', message = FALSE}
+
+```
+
+9) Use the textstat_lexdiv() function in `quanteda` *dfm.speeches* to obtain the TTR for all speeches, and save these as a *ttr* variable in speeches dataframe.
+
+```{r, echo = TRUE, results = 'verbatim', message = FALSE}
+
+```
+
+10) Plot the average *ttr* for both speakers using a bar chart. You may use either base `R` or `ggplot2`.
+
+```{r, echo = TRUE, results = 'verbatim', message = FALSE}
+
+```
