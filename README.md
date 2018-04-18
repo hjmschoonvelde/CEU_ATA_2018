@@ -18,19 +18,24 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | ------------- |:-------------:| ------------- |:-------------:| 
 | April  16   | [Link](Slides/Slides_April_16.pdf) | April  23   |  |
 | April  17   | [Link](Slides/Slides_April_17.pdf) | April  24   |  |
-| April  18   | Link](Slides/Slides_April_18.pdf) | April  25   |  |
+| April  18   | [Link](Slides/Slides_April_18.pdf) | April  25   |  |
 | April  19   |  | April  26   | |
 | April  20   |  | April  27   | |
 
 
 ## Code practice 
-| Date        | Link           |  Date        | Link           | 
-| ------------- |:-------------:| ------------- |:-------------:| 
-| April  16   | | April  23   | |
-| April  17   | [Link script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/1180d1eb/Code_Practice/String_Operations.html) | April  24   |  |
-| April  18   | [Link script](), [Link data](Data/speeches_uk.csv.zip)| April  25   |  |
-| April  19   |  | April  26   |  |
-| April  20   | | April  27   |  |
+| Date        | Link           | 
+| ------------- |:-------------:|
+| April  16   | |
+| April  17   | [Link script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/1180d1eb/Code_Practice/String_Operations.html) | 
+| April  18   | [Link script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/c0b86b7f/Code_Practice/From_Data_to_DFM.html), [Link data](Data/speeches_uk.csv.zip)| 
+| April  19   |  | 
+| April  20   | |
+| April  23   | |
+| April  24   | |
+| April  25   | |
+| April  26   | |
+| April  27  | |
 
 ## Course schedule 
 ----
