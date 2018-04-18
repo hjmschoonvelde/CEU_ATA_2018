@@ -56,7 +56,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 *April 18: 15:30 - 19:00:*
 * Pre-processing data. Going from text to data, including a few notes of caution. Discussion of the research design and research note. 
 * Required reading:
-	* Denny, M. J., & Spirling, A. (2017). Text preprocessing for unsupervised learning: why it matters, when it misleads, and what to do about it. Working paper.
+	* Denny, M. J., & Spirling, A. (2018). Text preprocessing for unsupervised learning: why it matters, when it misleads, and what to do about it. Forthcoming at Political Analysis.
 	* Greene, Z., Ceron, A., Schumacher, G., & Fazekas, Z. (2016). The Nuts and Bolts of Automated Text Analysis. Comparing Different Document Pre-Processing Techniques in Four Countries. Working paper.
 
 *April 19: 15:30 - 17:10:*
@@ -69,7 +69,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 * Required reading:
 	* Pennebaker JW & King L (1999) Linguistic styles: language use as an individual difference. Journal of Personality and Social Psychology, 77(6), 1296-1312.
 	*  Young, L., & Soroka, S. (2012). Affective news: The automated coding of sentiment in political texts. Political Communication, 29(2), 205-231.
-*Suggested reading:
+* Suggested reading:
 	* Rooduijn, M., & Pauwels, T. (2011). Measuring populism: Comparing two methods of content analysis. West European Politics, 34(6), 1272?1283.
 	* Rheault, L., Beelen, K., Cochrane, C., & Hirst, G. (2016). Measuring Emotion in Parliamentary Debates with Automated Textual Analysis. PLoS One, 11(12).
 * * Coding Assignment 1 due*
