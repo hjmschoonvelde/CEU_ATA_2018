@@ -27,8 +27,8 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | Date        | Link           | 
 | ------------- |:-------------:|
 | April  16   | |
-| April  17   | [Link script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/1180d1eb/Code_Practice/String_Operations.html) | 
-| April  18   | [Link script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/c0b86b7f/Code_Practice/From_Data_to_DFM.html), [Link data](Data/speeches_uk.csv.zip)| 
+| April  17   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/1180d1eb/Code_Practice/String_Operations.html) | 
+| April  18   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/c0b86b7f/Code_Practice/From_Data_to_DFM.html), [Data](Data/speeches_uk.csv.zip)| 
 | April  19   |  | 
 | April  20   | |
 | April  23   | |
