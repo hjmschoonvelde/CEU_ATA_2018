@@ -19,7 +19,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | April  16   | [Link](Slides/Slides_April_16.pdf) | April  23   |  |
 | April  17   | [Link](Slides/Slides_April_17.pdf) | April  24   |  |
 | April  18   | [Link](Slides/Slides_April_18.pdf) | April  25   |  |
-| April  19   | Link](Slides/Slides_April_19.pdf)  | April  26   | |
+| April  19   | [Link](Slides/Slides_April_19.pdf)  | April  26   | |
 | April  20   |  | April  27   | |
 
 
@@ -29,7 +29,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | April  16   | |
 | April  17   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/1180d1eb/Code_Practice/String_Operations.html) | 
 | April  18   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/c0b86b7f/Code_Practice/From_Data_to_DFM.html), [Data](Data/speeches_uk.csv.zip)| 
-| April  19   |  | 
+| April  19   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/ed8a2139/Code_Practice/Describing_Text.html), [Data](Data/speeches_uk.csv.zip)| 
 | April  20   | |
 | April  23   | |
 | April  24   | |
