@@ -19,7 +19,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | April  16   | [Link](Slides/Slides_April_16.pdf) | April  23   |  |
 | April  17   | [Link](Slides/Slides_April_17.pdf) | April  24   |  |
 | April  18   | [Link](Slides/Slides_April_18.pdf) | April  25   |  |
-| April  19   |  | April  26   | |
+| April  19   | Link](Slides/Slides_April_19.pdf)  | April  26   | |
 | April  20   |  | April  27   | |
 
 
