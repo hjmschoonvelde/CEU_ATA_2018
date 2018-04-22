@@ -16,7 +16,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 ## Slides 
 | Date        | Slides           |  Date        | Slides           | 
 | ------------- |:-------------:| ------------- |:-------------:| 
-| April  16   | [Link](Slides/Slides_April_16.pdf) | April  23   |  |
+| April  16   | [Link](Slides/Slides_April_16.pdf) | April  23   | [Link](Slides/Slides_April_23.pdf) |
 | April  17   | [Link](Slides/Slides_April_17.pdf) | April  24   |  |
 | April  18   | [Link](Slides/Slides_April_18.pdf) | April  25   |  |
 | April  19   | [Link](Slides/Slides_April_19.pdf)  | April  26   | |
@@ -31,7 +31,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | April  18   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/c0b86b7f/Code_Practice/From_Data_to_DFM.html), [Data](Data/speeches_uk.csv.zip)| 
 | April  19   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/ed8a2139/Code_Practice/Describing_Text.html), [Data](Data/speeches_uk.csv.zip)| 
 | April  20   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/2434b104/Code_Practice/Dictionaries_and_Supervised_ML.html), [Data](Data/speeches_uk.csv.zip)| 
-| April  23   | |
+| April  23   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/2434b104/Code_Practice/Dictionaries_and_Supervised_ML.html), [Data](Data/speeches_ep.csv.zip)| 
 | April  24   | |
 | April  25   | |
 | April  26   | |
