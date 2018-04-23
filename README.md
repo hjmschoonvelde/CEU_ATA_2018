@@ -34,7 +34,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | April  23   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/b9af0bf3/Code_Practice/Scaling.html), [Data](Data/speeches_ep.csv.zip)| 
 | April  24   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/ae432573/Code_Practice/Topic_models.html), [Data](Data/speeches_ep.csv.zip)| 
 | April  25   | |
-| April  26   | |
+| April  26   | Conclusion |
 | April  27  | Presentations |
 
 ### Acknowledgements
