@@ -37,6 +37,10 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | April  26   | |
 | April  27  | Presentations |
 
+### Acknowledgements
+
+For code practice scripts, I made use of materials by Jos Elkink [here](http://www.joselkink.net/files/POL30430_Spring_2017_lab11.html), and [here](http://www.joselkink.net/files/POL30430_Spring_2017_lab12.html), and Wouter van Atteveldt [here](http://vanatteveldt.com/ccs_lda/) and [here](http://vanatteveldt.com/learningr/). The setup of the labs follows the structure in Welbers, K., Van Atteveldt, W., & Benoit, K. (2017) (see below for citation).
+
 ## Course schedule 
 ----
 
@@ -109,8 +113,6 @@ American Journal of Political Science, 58(4), 1064-1082.
 * Research design presentations.
 
 *4 May, 17:00: Final Assignment Due: Research Note*
-
-
 
 
 
