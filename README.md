@@ -32,7 +32,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | April  19   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/ed8a2139/Code_Practice/Describing_Text.html), [Data](Data/speeches_uk.csv.zip)| 
 | April  20   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/2434b104/Code_Practice/Dictionaries_and_Supervised_ML.html), [Data](Data/speeches_uk.csv.zip)| 
 | April  23   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/b9af0bf3/Code_Practice/Scaling.html), [Data](Data/speeches_ep.csv.zip)| 
-| April  24   | |
+| April  24   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/ae432573/Code_Practice/Topic_models.html), [Data](Data/speeches_ep.csv.zip)| 
 | April  25   | |
 | April  26   | |
 | April  27  | Presentations |
