@@ -103,16 +103,16 @@ American Journal of Political Science, 58(4), 1064-1082.
 	* Benoit, K., Conway, D., Lauderdale, B. E., Laver, M., & Mikhaylov, S. (2016). Crowd-sourced text analysis: Reproducible and agile production of political data. American Political Science Review, 110(2), 278-295.
 * Suggested reading:
 	* Azarbonyad, H., Dehghani, M., Beelen, K., Arkut, A., Marx, M., & Kamps, J. (2017). Words are Malleable: Computing Semantic Shifts in Political and Media Discourse. Proceedings of the 2017 ACM Conference on Information and Knowledge Management, 1509-1518.
-* Coding Assignment 2 due
-	
-	
+
 *April 26: 09:00 - 10:40:*
 * Loose ends, review, and general discussion of pros and cons of automated text analysis. 
 
 *April 27: 09:00 - 10:40:*
 * Research design presentations.
 
-*4 May, 17:00: Final Assignment Due: Research Note*
+*30 April, 17:00: Coding Assignment 2 Due*
+
+*4 May, 17:00: Research Note Due*
 
 
 
