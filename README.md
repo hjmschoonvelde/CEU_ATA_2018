@@ -17,7 +17,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | Date        | Slides           |  Date        | Slides           | 
 | ------------- |:-------------:| ------------- |:-------------:| 
 | April  16   | [Link](Slides/Slides_April_16.pdf) | April  23   | [Link](Slides/Slides_April_23.pdf) |
-| April  17   | [Link](Slides/Slides_April_17.pdf) | April  24   |  |
+| April  17   | [Link](Slides/Slides_April_17.pdf) | April  24   | [Link](Slides/Slides_April_24.pdf)|
 | April  18   | [Link](Slides/Slides_April_18.pdf) | April  25   |  |
 | April  19   | [Link](Slides/Slides_April_19.pdf)  | April  26   | |
 | April  20   | [Link](Slides/Slides_April_20.pdf) | April  27   |  Presentations |
