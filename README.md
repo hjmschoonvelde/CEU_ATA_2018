@@ -76,7 +76,7 @@ For some code in the code practice scripts, I made use of materials by Jos Elkin
 * Suggested reading:
 	* Rooduijn, M., & Pauwels, T. (2011). Measuring populism: Comparing two methods of content analysis. West European Politics, 34(6), 1272?1283.
 	* Rheault, L., Beelen, K., Cochrane, C., & Hirst, G. (2016). Measuring Emotion in Parliamentary Debates with Automated Textual Analysis. PLoS One, 11(12).
-* * Coding Assignment 1 due*
+* *Coding Assignment 1 due*
 	
 *April 23: 09:00 - 10:40:*
 * Scaling methods locating text on an underlying (political) dimension. What do they mean? And how do they work?
