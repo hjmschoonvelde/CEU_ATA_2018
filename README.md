@@ -18,7 +18,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | ------------- |:-------------:| ------------- |:-------------:| 
 | April  16   | [Link](Slides/Slides_April_16.pdf) | April  23   | [Link](Slides/Slides_April_23.pdf) |
 | April  17   | [Link](Slides/Slides_April_17.pdf) | April  24   | [Link](Slides/Slides_April_24.pdf)|
-| April  18   | [Link](Slides/Slides_April_18.pdf) | April  25   |  |
+| April  18   | [Link](Slides/Slides_April_18.pdf) | April  25   | [Link](Slides/Slides_April_25.pdf)|
 | April  19   | [Link](Slides/Slides_April_19.pdf)  | April  26   | |
 | April  20   | [Link](Slides/Slides_April_20.pdf) | April  27   |  Presentations |
 
@@ -33,7 +33,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | April  20   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/2434b104/Code_Practice/Dictionaries_and_Supervised_ML.html), [Data](Data/speeches_uk.csv.zip)| 
 | April  23   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/b9af0bf3/Code_Practice/Scaling.html), [Data](Data/speeches_ep.csv.zip)| 
 | April  24   | [Script](https://cdn.rawgit.com/hjmschoonvelde/ceu_ata/ae432573/Code_Practice/Topic_models.html), [Data](Data/speeches_ep.csv.zip)| 
-| April  25   | |
+| April  25   |  Applications |
 | April  26   | Conclusion |
 | April  27  | Presentations |
 
