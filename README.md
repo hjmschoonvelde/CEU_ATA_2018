@@ -11,7 +11,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | Date        | Link           |   |
 | ------------- |:-------------:|  -------------:| 
 | April  23, 17:00h   | [Assignment 1](Assignments/Assignment_1.zip) |
-| April  30, 17:00h   |  | 
+| April  30, 17:00h   | [Assignment 2](Assignments/Assignment_2.zip) | | 
 
 ## Slides 
 | Date        | Slides           |  Date        | Slides           | 
@@ -19,7 +19,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | April  16   | [Link](Slides/Slides_April_16.pdf) | April  23   | [Link](Slides/Slides_April_23.pdf) |
 | April  17   | [Link](Slides/Slides_April_17.pdf) | April  24   | [Link](Slides/Slides_April_24.pdf)|
 | April  18   | [Link](Slides/Slides_April_18.pdf) | April  25   | [Link](Slides/Slides_April_25.pdf)|
-| April  19   | [Link](Slides/Slides_April_19.pdf)  | April  26   | |
+| April  19   | [Link](Slides/Slides_April_19.pdf)  | April  26   | [Link](Slides/Slides_April_26.pdf)|
 | April  20   | [Link](Slides/Slides_April_20.pdf) | April  27   |  Presentations |
 
 
